@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# vs
+.vs
+tmp
+win64_*
+
+# linux
+linux_*
+build
+
+# other
+experiment
